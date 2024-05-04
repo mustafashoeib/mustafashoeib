@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mustafa Faisal<br>Junior Front-End Developer | React Js | Angular</p>
+<p align="left">My name is Mustafa Faisal<br>Junior Front-End Developer | React Js </p>
 
 ###
 
